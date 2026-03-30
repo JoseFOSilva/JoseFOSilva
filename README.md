@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" alt="Data Engineer Illustration" height="180">
+    <img src="https://user-images.githubusercontent.com/74038190/216656005-9f8d2b92-9c1c-4f7a-8d3d-6c7e4bfc4d9e.gif" alt="Data Dashboard Animation" width="600">
 </div>
 
 <div align=center>
@@ -25,7 +25,7 @@ Focado em transformar dados complexos em insights estratégicos e confiáveis pa
 
 ### 🚀 Experiência Atual
 - 🔭 Atualmente atuando na **BRIA - Brazil Ireland Association (Volunteer)**  
-- 🏗️ Trabalhando com construção de pipelines de dados, automação e análise
+- 🏗️ Construção de pipelines de dados e automação de processos
 
 ---
 
