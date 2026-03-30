@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://svgur.com/i/13kN.svg" alt="Data Dashboard Illustration" width="600">
+    <<img src="https://cdn-icons-png.flaticon.com/512/3039/3039436.png" width="180">>
 </div>
 
 <div align=center>
