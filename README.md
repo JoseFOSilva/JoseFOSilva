@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://user-images.githubusercontent.com/74038190/216656005-9f8d2b92-9c1c-4f7a-8d3d-6c7e4bfc4d9e.gif" alt="Data Dashboard Animation" width="600">
+    <img src="https://svgur.com/i/13kN.svg" alt="Data Dashboard Illustration" width="600">
 </div>
 
 <div align=center>
@@ -25,14 +25,14 @@ Focado em transformar dados complexos em insights estratégicos e confiáveis pa
 
 ### 🚀 Experiência Atual
 - 🔭 Atualmente atuando na **BRIA - Brazil Ireland Association (Volunteer)**  
-- 🏗️ Construção de pipelines de dados e automação de processos
+- 🏗️ Construção de pipelines de dados e automação
 
 ---
 
 ### 📚 Atualmente Estudando
-- 🤖 AI Agents & Large Language Models (LLMs)
-- ☁️ Data Engineering em Cloud (AWS / Azure / GCP)
-- 🐍 Python para Data Engineering e Big Data
+- 🤖 AI Agents & LLMs  
+- ☁️ Data Engineering em Cloud  
+- 🐍 Python para Big Data  
 
 ---
 
@@ -43,12 +43,11 @@ Focado em transformar dados complexos em insights estratégicos e confiáveis pa
 ---
 
 ### 📊 Áreas de Atuação
-- Data Engineering
-- ETL / ELT Pipelines
-- Data Modeling
-- Data Warehousing
-- Business Intelligence
-- Data Analytics
+- Data Engineering  
+- ETL / ELT  
+- Data Modeling  
+- Data Warehousing  
+- BI & Analytics  
 
 ---
 
