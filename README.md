@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" alt="Data Engineer Illustration" height="180">
 </div>
 
 <div align=center>
@@ -18,7 +18,7 @@ Focado em transformar dados complexos em insights estratégicos e confiáveis pa
 </p>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="JoseFOSilva" /> 
+<img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="JoseFOSilva" /> 
 </p>
 
 ---
@@ -56,7 +56,7 @@ Focado em transformar dados complexos em insights estratégicos e confiáveis pa
 
 - 📧 Email: **jose_f_oliver@outlook.com**  
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jose-f-o-silva-253671b3)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jose_f_oliver@outlook.com)
 
 ---
