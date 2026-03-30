@@ -1,38 +1,62 @@
 <div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
+
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Data+Engineer;Python+%7C+SQL+%7C+ETL+Pipelines;Cloud+%7C+Big+Data+%7C+Analytics;" alt="Headline" />
 </div>
 
-<h1 align="center">Olá 👋, Eu sou {José F O Silva}</h1>
-<h3 align="center">{BI | DATA ANALYST | PYTHON DEVELOPER | DATA ENGINEER | SQL | QLIK SENSE} residente em {Dublin}/{Ireland}.</h3>
-<p align="center">{Data Analyst with 5+ years of experience in BI, Data Engineering, and Python development.
-Specialized in SQL, Qlik Sense, and end-to-end data solutions.
-Skilled in building data pipelines, creating dashboards, and transforming complex data into strategic insights.
-Experienced across the full data lifecycle — from extraction to visualization and analysis.}</p>
+<h1 align="center">Olá 👋, Eu sou José F O Silva</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="JoseFOSilva" /> </p>
+<h3 align="center">Data Engineer | BI Specialist | Python Developer residente em Dublin, Ireland.</h3>
 
-> _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
+<p align="center">
+Data Engineer com mais de 5 anos de experiência em BI, Engenharia de Dados e desenvolvimento em Python. 
+Especialista na construção de pipelines de dados escaláveis, processos de ETL/ELT e modelagem de dados.
+Experiência com SQL avançado, Qlik Sense e soluções end-to-end, desde ingestão e transformação até visualização.
+Focado em transformar dados complexos em insights estratégicos e confiáveis para tomada de decisão.
+</p>
 
-- 🔭 Atualmente, eu trabalho na [BRIA - Brazil Ireland Association Volunter](https://[site-da-empresa.com](https://brazilirelandassociation.org/)/).
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="JoseFOSilva" /> 
+</p>
 
-- 🌱 Meus estudos atuais focam em **My current studies focus on AI agents, large language models (LLMs), and Python for data science.**.
+---
 
-- 📫 Este é meu e-mail para contato: **jose_f_oliver@outlook.com**
+### 🚀 Experiência Atual
+- 🔭 Atualmente atuando na **BRIA - Brazil Ireland Association (Volunteer)**  
+- 🏗️ Trabalhando com construção de pipelines de dados, automação e análise
 
+---
 
-<h3 align="left">BI | DATA ANALYST | PYTHON DEVELOPER | DATA ENGINEER | SQL | QLIK SENSE </h3>
+### 📚 Atualmente Estudando
+- 🤖 AI Agents & Large Language Models (LLMs)
+- ☁️ Data Engineering em Cloud (AWS / Azure / GCP)
+- 🐍 Python para Data Engineering e Big Data
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
+---
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
+### 🛠️ Stack Tecnológica
 
+[![Minhas habilidades](https://skillicons.dev/icons?i=python,sql,aws,docker,linux,git)]()
 
-<h3 align="left">Entre em contato comigo:</h3>
+---
+
+### 📊 Áreas de Atuação
+- Data Engineering
+- ETL / ELT Pipelines
+- Data Modeling
+- Data Warehousing
+- Business Intelligence
+- Data Analytics
+
+---
+
+### 📫 Contato
+
+- 📧 Email: **jose_f_oliver@outlook.com**  
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jose_f_oliver@outlook.com)
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
+---
