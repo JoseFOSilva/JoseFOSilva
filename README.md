@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://pixabay.com/pt/photos/borr%c3%a3o-gr%c3%a1fico-computador-dados-1853262/" />
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149653.png" width="120"/>
 
 # José F O Silva
 
-### Data Engineer | Python | SQL | Cloud | ETL Pipelines
+### Data Engineer | Python | Cloud | ETL Pipelines
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=600&height=40&lines=Building+Data+Pipelines;Turning+Data+into+Insights;Cloud+%7C+Big+Data+%7C+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=600&height=40&lines=Designing+Data+Pipelines;Building+Scalable+Data+Solutions;Cloud+%7C+Big+Data+%7C+Analytics" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou **Data Engineer** com mais de 5 anos de experiência em BI, Engenharia de Dados e desenvolvimento em Python.
+I am a **Data Engineer** with over 5 years of experience in Business Intelligence, Data Engineering, and Python development.
 
-- 🔧 Construção de pipelines de dados escaláveis (ETL/ELT)  
-- 📊 Transformação de dados em insights estratégicos  
-- ☁️ Experiência com soluções end-to-end em ambiente cloud  
-- 🧠 Forte atuação em modelagem e arquitetura de dados  
+- 🔧 Building scalable data pipelines (ETL/ELT)  
+- 📊 Transforming complex data into actionable insights  
+- ☁️ Developing end-to-end data solutions in cloud environments  
+- 🧠 Strong experience in data modeling and architecture  
 
 ---
 
-## 🚀 Experiência Atual
+## 🚀 Current Experience
 
 - 🔭 **BRIA - Brazil Ireland Association (Volunteer)**  
-- ⚙️ Desenvolvimento de pipelines de dados  
-- 📈 Automação e análise de dados  
+- ⚙️ Developing and automating data pipelines  
+- 📈 Performing data analysis and reporting  
 
 ---
 
@@ -35,28 +35,37 @@ Sou **Data Engineer** com mais de 5 anos de experiência em BI, Engenharia de Da
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,aws,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,aws,docker,linux,git" />
 
 </div>
 
 ---
 
-## 📊 Especialidades
+## ⚙️ Data Engineering Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=apacheairflow,kafka" />
+
+</div>
+
+---
+
+## 📊 Core Expertise
 
 - Data Engineering  
 - ETL / ELT Pipelines  
 - Data Modeling  
 - Data Warehousing  
-- Business Intelligence  
-- Data Analytics  
+- Big Data & Analytics  
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Currently Learning
 
-- 🤖 AI Agents & LLMs  
-- ☁️ Cloud Data Engineering  
-- 🐍 Python para Big Data  
+- 🤖 AI Agents & Large Language Models (LLMs)  
+- ☁️ Cloud Data Engineering (AWS, GCP, Azure)  
+- 🐍 Python for Big Data  
 
 ---
 
@@ -71,7 +80,7 @@ Sou **Data Engineer** com mais de 5 anos de experiência em BI, Engenharia de Da
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
@@ -84,11 +93,11 @@ Sou **Data Engineer** com mais de 5 anos de experiência em BI, Engenharia de Da
 
 ---
 
-## ⚡ Diferencial
+## ⚡ Highlights
 
-✔️ Experiência end-to-end (da ingestão ao insight)  
-✔️ Forte base em BI + Engenharia de Dados  
-✔️ Foco em performance e escalabilidade  
-✔️ Mentalidade orientada a dados e negócio  
+✔️ End-to-end data experience (from ingestion to insights)  
+✔️ Strong background in BI and Data Engineering  
+✔️ Focus on performance and scalability  
+✔️ Business-oriented mindset  
 
 ---
