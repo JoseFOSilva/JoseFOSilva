@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=600&height=40&lines=Building+Data+Pipelines;Turning+Data+into+Insights;Cloud+%7C+Big+Data+%7C+Analytics" />
-/>
+<img src="https://pixabay.com/pt/photos/borr%c3%a3o-gr%c3%a1fico-computador-dados-1853262/" />
 
 # José F O Silva
 
